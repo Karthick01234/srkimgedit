@@ -1,0 +1,6 @@
+[submodule "srkimgedit.android"]
+	path = srkimgedit.android
+	url = https://github.com/Karthick01234/srkimgedit.android.git
+[submodule "srkimgedit.js"]
+	path = srkimgedit.js
+	url = https://github.com/Karthick01234/srkimgedit.js.git

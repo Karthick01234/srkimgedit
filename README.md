@@ -99,7 +99,7 @@ git submodule update --remote
 
 ```
 
-Push Changes to Submodules (You Cannot Push to Main)4
+Push Changes to Submodules (You Cannot Push to Main)
 
 ```
 
