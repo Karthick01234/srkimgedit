@@ -1,52 +1,46 @@
-SRKImgEdit
-
-SRKImgEdit is a lightweight, cross-platform image editing library powered by Rust + WebAssembly (WASM). It provides high-performance image manipulation for the Web, Android, and iOS, leveraging Rust's memory safety and speed with WebAssembly's cross-platform capabilities.
-
-🚧 This project is under active development! We are looking for contributors to help build and improve this open-source library. Join us!
-
-Features 🚀
-
-Basic Editing
-
-✅ Crop
-
-✅ Resize & Scale
-
-✅ Rotate & Flip
-
-✅ Brightness & Contrast Adjustment
-
-✅ Custom Filters Allow Users to Manipulate Pixels Based on RGBA Values
-
-✅ Undo and Redo System
-
-Advanced Filters & Effects
-
-✨ AI-Powered Image Upscaling
-
-🖌️ AI-Based Background Removal
-
-✨ Edge Detection & Cartoon Effects
-
-🎭 Face Detection and Beautification
-
-🖼️ Background Replacement
-
-Performance & Platform Support
-
-⚡ Rust + WebAssembly for high performance on Web & Mobile
-
-🖥️ Web: Runs in Browsers using WebAssembly (WASM)
-
-📱 Android & iOS: Compiled to native code for mobile apps
-
-🚀 GPU Acceleration using WebGL/OpenGL
-
 # SRKImgEdit.js
 
 A lightweight image editing library powered by **Rust + WebAssembly**, providing efficient and high-performance image processing for the **Web**. This library is cross-platform and will later include **Android support via JNI**.
 
-🚀 **This is a submodule of the main project: [SRKImgEdit Main Repo](https://github.com/Karthick01234/srkimgedit)**
+🚧 This project is under active development! We are looking for contributors to help build and improve this open-source library. Join us!
+
+# Features 🚀
+
+# Basic Editing
+
+- ✅ Crop
+
+- ✅ Resize & Scale
+
+- ✅ Rotate & Flip
+
+- ✅ Brightness & Contrast Adjustment
+
+- ✅ Custom Filters Allow Users to Manipulate Pixels Based on RGBA Values
+
+- ✅ Undo and Redo System
+
+# Advanced Filters & Effects
+
+- ✨ AI-Powered Image Upscaling
+
+- 🖌️ AI-Based Background Removal
+
+- ✨ Edge Detection & Cartoon Effects
+
+- 🎭 Face Detection and Beautification
+
+- 🖼️ Background Replacement
+
+# Performance & Platform Support
+
+- ⚡ Rust + WebAssembly for high performance on Web & Mobile
+
+- 🖥️ Web: Runs in Browsers using WebAssembly (WASM)
+
+- 📱 Android & iOS: Compiled to native code for mobile apps
+
+- 🚀 GPU Acceleration using WebGL/OpenGL
 
 ---
 
