@@ -1,4 +1,4 @@
-# SRKImgEdit.js
+# SRKImgEdit
 
 A lightweight image editing library powered by **Rust + WebAssembly**, providing efficient and high-performance image processing for the **Web**. This library is cross-platform and will later include **Android support via JNI**.
 
@@ -77,7 +77,7 @@ In the pkg folder:
 This project is built using Rust and compiled to WebAssembly for web-based image editing.
 Future updates will include Android support via JNI.
 
-srkimgedit.js/
+srkimgedit/
 │── src/
 |   |─ Components
 │   |  ├── plugins/           # Each feature is a plugin
@@ -129,7 +129,7 @@ This project is licensed under the MIT License.
 
 ## Links 🔗
 
-- **GitHub:** [srkimgedit.js](https://github.com/Karthick01234/srkimgedit)
+- **GitHub:** [srkimgedit](https://github.com/Karthick01234/srkimgedit)
 - **Issues:** [Report Bugs](https://github.com/Karthick01234/srkimgedit/issues)
 - **Suggestions:** [Suggest an Improvement](https://github.com/Karthick01234/srkimgedit/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=)
 - **Documentation:** _Coming Soon_ 🚀
