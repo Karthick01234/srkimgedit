@@ -2,7 +2,7 @@
 
 SRKImgEdit is a lightweight, cross-platform image editing library for Web (JavaScript) and Android (Kotlin). It supports basic to advanced image editing, including real-time filters, AI-powered effects, and GPU-accelerated processing using WebGL and OpenGL ES.
 
-🚧 This project is under active development! We are looking for contributors to help build and improve this open-source library. Join us!
+🚧 This js and kotlin library development is stopped and library development is switched to rust + webassembly + jni 
 
 ## Features 🚀
 
