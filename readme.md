@@ -46,7 +46,7 @@ A lightweight image editing library powered by **Rust + WebAssembly**, providing
 
 ## Installation 📥
 
-You can install **SRKImgEdit.js** using npm:
+You can install **SRKImgEdit** using npm:
 
 ```sh
 npm install srkimgedit
