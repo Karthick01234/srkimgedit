@@ -34,13 +34,23 @@ A lightweight image editing library powered by **Rust + WebAssembly**, providing
 
 # Performance & Platform Support
 
-- ⚡ Rust + WebAssembly for high performance on Web & Mobile
+- ⚡ Rust + WebAssembly + JNI for high performance across Web & Mobile
 
-- 🖥️ Web: Runs in Browsers using WebAssembly (WASM)
+- 🎨 2D & 3D Effects: Powered by common Rust libraries
 
-- 📱 Android & iOS: Compiled to native code for mobile apps
+  - 2D Graphics libraries: bevy, macroquad, image
 
-- 🚀 GPU Acceleration using WebGL/OpenGL
+  - 3D Rendering libraries: wgpu, glium
+
+- 🧠 AI Features: Integrated with Rust-based AI libraries
+
+  - Machine Learning & AI libraries: candle, tch-rs, tract
+
+- 🖥️ Web: Runs in browsers using WebAssembly (WASM)
+
+- 📱 Android & iOS: Compiled to native code using JNI for seamless mobile support
+
+- 🚀 GPU Acceleration: Uses Rust 3D libraries (wgpu, glium) for efficient rendering and processing
 
 ---
 
